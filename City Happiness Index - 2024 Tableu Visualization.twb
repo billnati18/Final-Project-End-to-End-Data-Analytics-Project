@@ -388,7 +388,7 @@
               <bucket>&quot;[federated.1gva9a808e0gc9128mptg19kqc3s].[sum:Happiness_Score:qk]&quot;</bucket>
             </map>
           </encoding>
-          <encoding attr='color' field='[max:Traffic_Density:nk]' type='palette'>
+          <encoding attr='color' field='[none:Traffic_Density:nk]' type='palette'>
             <map to='#4e79a7'>
               <bucket>&quot;Medium&quot;</bucket>
             </map>
@@ -431,7 +431,7 @@
               <bucket>&quot;South America&quot;</bucket>
             </map>
           </encoding>
-          <encoding attr='color' field='[none:Traffic_Density:nk]' type='palette'>
+          <encoding attr='color' field='[max:Traffic_Density:nk]' type='palette'>
             <map to='#4e79a7'>
               <bucket>&quot;Medium&quot;</bucket>
             </map>
@@ -3313,8 +3313,8 @@
         <devicelayout auto-generated='true' name='Phone'>
           <size maxheight='700' minheight='700' sizing-mode='vscroll' />
           <zones>
-            <zone h='100000' id='35' type-v2='layout-basic' w='100000' x='0' y='0'>
-              <zone h='98000' id='34' param='vert' type-v2='layout-flow' w='98858' x='571' y='1000'>
+            <zone h='100000' id='41' type-v2='layout-basic' w='100000' x='0' y='0'>
+              <zone h='84000' id='40' param='vert' type-v2='layout-flow' w='84000' x='8000' y='8000'>
                 <zone forceUpdate='true' h='17625' id='8' type-v2='text' w='98858' x='571' y='1000'>
                   <formatted-text>
                     <run fontalignment='1' fontcolor='#000000' fontname='Trebuchet MS' fontsize='20'>Æ </run>
@@ -3560,8 +3560,8 @@
           </layout-options>
           <size maxheight='1350' minheight='1350' sizing-mode='vscroll' />
           <zones>
-            <zone h='100000' id='58' type-v2='layout-basic' w='100000' x='0' y='0'>
-              <zone h='98000' id='57' param='vert' type-v2='layout-flow' w='98858' x='571' y='1000'>
+            <zone h='100000' id='64' type-v2='layout-basic' w='100000' x='0' y='0'>
+              <zone h='98000' id='63' param='vert' type-v2='layout-flow' w='98858' x='571' y='1000'>
                 <zone fixed-size='41' h='6125' id='22' type-v2='title' w='98858' x='571' y='1000'>
                   <zone-style>
                     <format attr='border-color' value='#000000' />
@@ -3903,8 +3903,8 @@
           </layout-options>
           <size maxheight='1350' minheight='1350' sizing-mode='vscroll' />
           <zones>
-            <zone h='100000' id='52' type-v2='layout-basic' w='100000' x='0' y='0'>
-              <zone h='98000' id='51' param='vert' type-v2='layout-flow' w='98858' x='571' y='1000'>
+            <zone h='100000' id='58' type-v2='layout-basic' w='100000' x='0' y='0'>
+              <zone h='98000' id='57' param='vert' type-v2='layout-flow' w='98858' x='571' y='1000'>
                 <zone h='5375' id='17' type-v2='title' w='98858' x='571' y='1000'>
                   <zone-style>
                     <format attr='border-color' value='#000000' />
@@ -4190,7 +4190,6 @@
         </zone>
         <zone flipboard-zone-id='5' forceUpdate='true' h='50750' hidden='true' id='15' story-point-id='11' type-v2='text' w='20357' x='79000' y='47375'>
           <formatted-text>
-            <run bold='true' fontalignment='0' fontcolor='#000000' fontsize='12'>Æ </run>
             <run bold='true' fontalignment='0' fontcolor='#000000' fontsize='9'>Hypothesis #1: </run>
             <run fontalignment='0' fontcolor='#000000' fontsize='9'>Traffic Density Impact on Happiness</run>
             <run fontalignment='0'>Æ&#10;&#10;</run>
@@ -4210,7 +4209,6 @@
         </zone>
         <zone flipboard-zone-id='5' forceUpdate='true' h='45750' hidden='true' id='16' story-point-id='12' type-v2='text' w='33286' x='54286' y='11125'>
           <formatted-text>
-            <run bold='true' fontalignment='0' fontcolor='#000000' fontname='Arial' fontsize='12'>Æ </run>
             <run bold='true' fontalignment='0' fontcolor='#000000' fontsize='12'>Hypothesis #2: </run>
             <run fontalignment='0' fontcolor='#000000' fontsize='12'>Green Space and Happiness</run>
             <run fontalignment='0'>Æ&#10;&#10;</run>
@@ -4483,8 +4481,8 @@
           </layout-options>
           <size maxheight='2050' minheight='2050' sizing-mode='vscroll' />
           <zones>
-            <zone h='100000' id='82' type-v2='layout-basic' w='100000' x='0' y='0'>
-              <zone h='98000' id='81' param='vert' type-v2='layout-flow' w='98858' x='571' y='1000'>
+            <zone h='100000' id='88' type-v2='layout-basic' w='100000' x='0' y='0'>
+              <zone h='98000' id='87' param='vert' type-v2='layout-flow' w='98858' x='571' y='1000'>
                 <zone h='5375' id='53' type-v2='title' w='98716' x='642' y='1125'>
                   <zone-style>
                     <format attr='border-color' value='#000000' />
