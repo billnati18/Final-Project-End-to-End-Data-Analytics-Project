@@ -56,7 +56,7 @@ The analysis involves a comprehensive exploration of a dataset curated by Emirha
 
 - Traffic Density Impact on Happiness:
 
-    1. Analysis of happiness scores across cities with varying traffic density levels.
+    - Analysis of happiness scores across cities with varying traffic density levels.
         Statistical tests to identify significant differences.
         Insights and recommendations for mitigating traffic-related stress.
         
@@ -64,7 +64,7 @@ The analysis involves a comprehensive exploration of a dataset curated by Emirha
         H0: No significant difference in happiness scores between cities with different traffic density levels.
         H1: Cities with lower traffic density levels exhibit higher average happiness scores.
 
-    2. Green Space and Happiness:
+    - Green Space and Happiness:
         Exploration of the relationship between green space percentage and happiness scores.
         Assessment of whether higher green space correlates with increased happiness.
         Recommendations for urban planning strategies to enhance green spaces.
@@ -73,7 +73,7 @@ The analysis involves a comprehensive exploration of a dataset curated by Emirha
         H0: The percentage of green space in a city does not significantly affect the happiness score.
         H1: Cities with a higher percentage of green space have higher average happiness scores.
 
-    3. Air Quality and Well-being:
+    - Air Quality and Well-being:
 
         Investigation into the correlation between air quality index and happiness scores.
         Evaluation of whether improved air quality contributes to higher happiness.
