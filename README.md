@@ -57,17 +57,22 @@ The analysis involves a comprehensive exploration of a dataset curated by Emirha
 - Traffic Density Impact on Happiness:
 
     - Analysis of happiness scores across cities with varying traffic density levels.
-        Statistical tests to identify significant differences.
-        Insights and recommendations for mitigating traffic-related stress.
+
+      Statistical tests to identify significant differences.
+
+      Insights and recommendations for mitigating traffic-related stress.
         
         Hypotheses:
         H0: No significant difference in happiness scores between cities with different traffic density levels.
         H1: Cities with lower traffic density levels exhibit higher average happiness scores.
 
     - Green Space and Happiness:
-        Exploration of the relationship between green space percentage and happiness scores.
-        Assessment of whether higher green space correlates with increased happiness.
-        Recommendations for urban planning strategies to enhance green spaces.
+
+      Exploration of the relationship between green space percentage and happiness scores.
+
+      Assessment of whether higher green space correlates with increased happiness.
+
+      Recommendations for urban planning strategies to enhance green spaces.
 
         Hypotheses:
         H0: The percentage of green space in a city does not significantly affect the happiness score.
@@ -75,9 +80,11 @@ The analysis involves a comprehensive exploration of a dataset curated by Emirha
 
     - Air Quality and Well-being:
 
-        Investigation into the correlation between air quality index and happiness scores.
-        Evaluation of whether improved air quality contributes to higher happiness.
-        Proposals for measures to enhance air quality in cities.
+      Investigation into the correlation between air quality index and happiness scores.
+
+      Evaluation of whether improved air quality contributes to higher happiness.
+
+      Proposals for measures to enhance air quality in cities.
 
         Hypotheses:
         H0: No correlation between the air quality index and happiness score in cities.
