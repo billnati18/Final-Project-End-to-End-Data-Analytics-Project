@@ -7,6 +7,7 @@
 Project Status (Active)
 
 # Presentation: 
+Enjoy :) : https://public.tableau.com/views/CityHappinessIndex-2024TableauAnalysis/TopCities?:language=en-US&:display_count=n&:origin=viz_share_link  
 
 # Project Objective
 The objective of this data analytics project is to explore and identify factors that contribute to urban happiness, with a focus on traffic density, green space, air quality, cost of living, healthcare quality, temporal trends, auditory comfort, and potential interaction effects. The findings will guide city planners and policymakers in making informed decisions to enhance the overall well-being of citizens.
@@ -133,13 +134,16 @@ If applicable, contribute your findings back to the project repository. Share re
 # Key Findings
 
 1. Traffic Density Impact on Happiness: 
-    In examining the relationship between traffic density and happiness scores, our analysis reveals that we fail to reject the null hypothesis. This indicates that there is no significant difference in happiness scores among cities with varying levels of traffic density. Contrary to the alternative hypothesis, cities with lower traffic density do not exhibit consistently higher average happiness scores compared to those with higher traffic density. This suggests that, based on our data, traffic density alone may not be a decisive factor influencing overall happiness in urban environments. Further nuances and contributing factors may need exploration to better understand the complex dynamics between traffic density and the well-being of city residents.
 
-2. Green Space and Happiness:
-    In investigating the connection between green space percentage and happiness scores, our analysis leads us to reject the null hypothesis. The data suggests a significant correlation between the percentage of green space in a city and its happiness scores. Cities with a higher proportion of green spaces tend to have higher average happiness scores. This finding underscores the positive impact of green spaces on the well-being of urban populations. It implies that urban planning strategies aimed at increasing green spaces could contribute to fostering higher levels of happiness among city residents. These results emphasize the importance of incorporating and preserving green areas within the urban landscape to enhance overall city happiness.
+   In examining the relationship between traffic density and happiness scores, my analysis reveals that we fail to reject the null hypothesis. This indicates that there is no significant difference in happiness scores among cities with varying levels of traffic density. Contrary to the alternative hypothesis, cities with lower traffic density do not exhibit consistently higher average happiness scores compared to those with higher traffic density. This suggests that, based on the data, traffic density alone may not be a decisive factor influencing overall happiness in urban environments. Further nuances and contributing factors may need exploration to better understand the complex dynamics between traffic density and the well-being of city residents.
 
-3.  Air Quality and Well-being:   
-    Our analysis rejects the null hypothesis, revealing a significant correlation between air quality index and happiness scores in cities. Cities with better air quality tend to boast higher average happiness scores. This highlights the critical role of clean air in enhancing the overall well-being and contentment of urban residents. Policy and initiatives aimed at improving air quality could be key to fostering higher levels of happiness in urban environments.
+3. Green Space and Happiness:
+
+   In investigating the connection between green space percentage and happiness scores, my analysis leads me to reject the null hypothesis. The data suggests a significant correlation between the percentage of green space in a city and its happiness scores. Cities with a higher proportion of green spaces tend to have higher average happiness scores. This finding underscores the positive impact of green spaces on the well-being of urban populations. It implies that urban planning strategies aimed at increasing green spaces could contribute to fostering higher levels of happiness among city residents. These results emphasize the importance of incorporating and preserving green areas within the urban landscape to enhance overall city happiness.
+
+4.  Air Quality and Well-being:   
+
+    My analysis rejects the null hypothesis, revealing a significant correlation between air quality index and happiness scores in cities. Cities with better air quality tend to boast higher average happiness scores. This highlights the critical role of clean air in enhancing the overall well-being and contentment of urban residents. Policy and initiatives aimed at improving air quality could be key to fostering higher levels of happiness in urban environments.
 
 # Conclusion
 
