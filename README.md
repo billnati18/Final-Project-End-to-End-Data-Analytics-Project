@@ -7,7 +7,9 @@
 Project Status (Completed)
 
 # Presentation: 
-Enjoy :) : https://public.tableau.com/views/CityHappinessIndex-2024TableauAnalysis/TopCities?:language=en-US&:display_count=n&:origin=viz_share_link  
+Enjoy :) : 
+Dashboard: https://public.tableau.com/views/CityHappinessIndex-2024TableauAnalysis/TopCities?:language=en-US&:display_count=n&:origin=viz_share_link  
+Presentantion: https://public.tableau.com/views/CityHappinessIndexPresentation/CityHappinessIndexPresentation?:language=en-US&:display_count=n&:origin=viz_share_link
 
 # Project Objective
 The objective of this data analytics project is to explore and identify factors that contribute to urban happiness, with a focus on traffic density, green space, air quality, cost of living, healthcare quality, temporal trends, auditory comfort, and potential interaction effects. The findings will guide city planners and policymakers in making informed decisions to enhance the overall well-being of citizens.
