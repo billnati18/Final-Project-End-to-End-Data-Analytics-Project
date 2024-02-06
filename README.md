@@ -9,7 +9,7 @@ Project Status (Completed)
 # Presentation: 
 Enjoy :) : 
 
-Dashboard: https://public.tableau.com/views/CityHappinessIndex-2024TableauAnalysis/TopCities?:language=en-US&:display_count=n&:origin=viz_share_link  
+Dashboard: https://public.tableau.com/views/CityHappinessIndex-TableauVisualization/TopCities?:language=en-US&:display_count=n&:origin=viz_share_link 
 
 Presentantion: https://public.tableau.com/views/CityHappinessIndexPresentation/CityHappinessIndexPresentation?:language=en-US&:display_count=n&:origin=viz_share_link
 
