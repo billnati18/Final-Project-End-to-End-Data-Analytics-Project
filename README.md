@@ -68,33 +68,33 @@ The analysis involves a comprehensive exploration of a dataset curated by Emirha
 
   H1: Cities with lower traffic density levels exhibit higher average happiness scores.
 
-  - Green Space and Happiness:
+- Green Space and Happiness:
 
-    Exploration of the relationship between green space percentage and happiness scores.
+  Exploration of the relationship between green space percentage and happiness scores.
 
-    Assessment of whether higher green space correlates with increased happiness.
+  Assessment of whether higher green space correlates with increased happiness.
 
-    Recommendations for urban planning strategies to enhance green spaces.
+  Recommendations for urban planning strategies to enhance green spaces.
 
-    Hypotheses:
+  Hypotheses:
 
-    H0: The percentage of green space in a city does not significantly affect the happiness score.
+  H0: The percentage of green space in a city does not significantly affect the happiness score.
 
-    H1: Cities with a higher percentage of green space have higher average happiness scores.
+  H1: Cities with a higher percentage of green space have higher average happiness scores.
 
-  - Air Quality and Well-being:
+- Air Quality and Well-being:
 
-    Investigation into the correlation between air quality index and happiness scores.
+  Investigation into the correlation between air quality index and happiness scores.
 
-    Evaluation of whether improved air quality contributes to higher happiness.
+  Evaluation of whether improved air quality contributes to higher happiness.
 
-    Proposals for measures to enhance air quality in cities.
+  Proposals for measures to enhance air quality in cities.
 
-    Hypotheses:
+  Hypotheses:
 
-    H0: No correlation between the air quality index and happiness score in cities.
+  H0: No correlation between the air quality index and happiness score in cities.
 
-    H1: Cities with better air quality exhibit higher average happiness scores.
+  H1: Cities with better air quality exhibit higher average happiness scores.
 
 ### Data Tools Used:
 
