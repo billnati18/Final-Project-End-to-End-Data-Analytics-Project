@@ -4,7 +4,7 @@
 ### Enhancing Urban Happiness through Data-Driven Insights
 #### Ironhack Bootcamp Final Project
 
-Project Status (Active)
+Project Status (Completed)
 
 # Presentation: 
 Enjoy :) : https://public.tableau.com/views/CityHappinessIndex-2024TableauAnalysis/TopCities?:language=en-US&:display_count=n&:origin=viz_share_link  
